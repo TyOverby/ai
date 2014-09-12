@@ -1,0 +1,10 @@
+name: ai
+version: 0.0.0-alpha
+authors:
+- Ty Overby <ty@pre-alpha.com>
+- Meyer Kinzerok <meyer@pre-alpha.com>
+dependencies:
+    polymer: 0.14.0
+    paper_elements: 0.2.0
+    core_elements: 0.2.1
+    unittest: 0.11.0+5
